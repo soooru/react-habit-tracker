@@ -1,3 +1,8 @@
+# react 공부용 repository 📚
+
+드림코딩 앨리 React-Basic-Course
+리액트 개념 정리 + 유튜브 클론코딩 강의내용 중 habit-tracker 만들기 연습
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
